@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>app</key>
+	<string>com.bohemiancoding.sketch3.beta</string>
+	<key>build</key>
+	<integer>8039</integer>
+	<key>commit</key>
+	<string>1a64a60a82dd8524d22ca1179f37d504d2aa8996</string>
+	<key>fonts</key>
+	<array>
+		<string>AvenirNext-Regular</string>
+	</array>
+	<key>length</key>
+	<integer>41076</integer>
+	<key>version</key>
+	<integer>37</integer>
+</dict>
+</plist>
